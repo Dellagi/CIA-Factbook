@@ -18,9 +18,9 @@
 
 ### Histo of inflation (user can choose what information and year to plot) :
 
-![alt text](https://github.com/Dellagi/CIA-Factbook/raw/master/assets/Figure_2.png?raw=true)
+![alt text](https://github.com/Dellagi/CIA-Factbook/raw/main/assets/Figure_2.png?raw=true)
 
 
 ### Box plot :
 
-![alt text](https://github.com/Dellagi/CIA-Factbook/raw/master/assets/Figure_1.png?raw=true)
+![alt text](https://github.com/Dellagi/CIA-Factbook/raw/main/assets/Figure_1.png?raw=true)
