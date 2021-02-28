@@ -1,0 +1,7 @@
+{"factbook":"CREATE TABLE IF NOT EXISTS factbook (ID INTEGER PRIMARY KEY AUTOINCREMENT, country_name VARCHAR(255), superficie INT, population TEXT, croissance_demo TEXT, inflation TEXT, dette TEXT, taux_chomage TEXT, taux_depense_sante TEXT, taux_depense_educ TEXT, taux_depense_militaire TEXT, classes_age TEXT);", 
+
+"users":["CREATE TABLE IF NOT EXISTS users (ID INTEGER PRIMARY KEY AUTOINCREMENT, firstname VARCHAR(255), lastname VARCHAR(255), username VARCHAR(255) NOT NULL, password VARCHAR(255) NOT NULL, privilege INT NOT NULL, birthday date, phone_number decimal(10, 0));", "INSERT INTO users (firstname, lastname, username, password, privilege, birthday, phone_number) values('Hela', 'Dellagi', 'admin', '32250170a0dca92d53ec9624f336ca24', 0, '12/25/1997', '0667564565');"],
+
+"update_request":"CREATE TABLE IF NOT EXISTS update_request (ID INTEGER PRIMARY KEY AUTOINCREMENT, country_name VARCHAR(255), superficie INT, population TEXT, croissance_demo TEXT, inflation TEXT, dette TEXT, taux_chomage TEXT, taux_depense_sante TEXT, taux_depense_educ TEXT, taux_depense_militaire TEXT, classes_age TEXT);"
+}
+
